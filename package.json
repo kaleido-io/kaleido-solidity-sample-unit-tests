@@ -1,0 +1,14 @@
+{
+  "name": "kaleido-solidity-sample-unit-tests",
+  "version": "1.0.0",
+  "description": "Sample project showing Truffle units tests",
+  "keywords": ["kaleido", "truffle", "test", "solidity"],
+  "author": "Kaleido Inc.",
+  "license": "Apache-2.0",
+  "scripts": {
+    "test": "./node_modules/truffle/build/cli.bundled.js test"
+  },
+  "devDependencies": {
+    "truffle": "^5.1.35"
+  }
+}
