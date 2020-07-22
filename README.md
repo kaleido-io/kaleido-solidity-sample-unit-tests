@@ -1,4 +1,4 @@
-# Truffle unit test example
+# Kaleido Solidity Sample Unit Tests
 
 ## Introduction
 
